@@ -13,7 +13,7 @@ body {
   border: 5px solid black;
   left: 0;
   position: absolute;
-  background-image: url("christmas-background-vector.jpg");
+  background-image: url("christmas-background-vector.png");
   background-size: cover;
 }
 
